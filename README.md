@@ -3,3 +3,4 @@ This is a power bi project to analize Georgias economic position in the world.(W
 On first page you can see Georgias GDP and other parameters.
 On second page you can see Georgias and its neighbours comparison.
 On third page there is a map, when you hover over any country you will see its rank by parameters.
+Data is from worldbank website https://data.worldbank.org/country/georgia.
